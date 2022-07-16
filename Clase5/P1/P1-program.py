@@ -19,7 +19,7 @@ def areat(base,altura):
 # Area de un circulo
 def areac(radio):
     areac = pi * radio ** 2
-    return areac
+    return round(areac,2)
 ## Menú y Operaciones
 def main():
     option=0
