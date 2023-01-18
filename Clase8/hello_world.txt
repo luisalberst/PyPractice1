@@ -1,0 +1,3 @@
+First Line write with file on python 
+Hello World 
+Line after Hello World 
